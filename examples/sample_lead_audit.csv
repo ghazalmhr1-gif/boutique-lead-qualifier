@@ -1,0 +1,11 @@
+name,address,phone,website,rating,reviews,category,website_status,name_match,marketing_ready,ai_score,ai_reason
+Zumel & Co.,"Toronto, ON",(416) 603-0888,https://www.zumelandco.com/,4.9,168,Women's clothing store,live,True,yes,8,High rating and active e-commerce site indicate strong customer engagement.
+Black Market Vintage Upstairs,"Toronto, ON",(416) 599-5858,https://blackmarkettoronto.com/,4.3,1300,Vintage clothing store,live,True,yes,8,Strong online presence and high rating make it a good outreach candidate
+honey,"Toronto, ON",(416) 599-0070,https://shophoney.com/,3,202,Women's clothing store,live,True,yes,7,Active boutique with e-commerce and decent reviews
+Bubble Gum Fashion,"Toronto, ON",(647) 839-0747,https://shopbubblegum.ca/,4.1,41,Women's clothing store,live,True,yes,8,Strong online presence and positive rating indicate a viable outreach target
+PLRG | Poor Little Rich Girl,"Toronto, ON",(416) 322-7574,https://plrg.ca/,4.3,41,Clothing store,live,True,yes,9,Active boutique with good rating and live website.
+Style In Liberty,"Toronto, ON",,https://www.styleinliberty.com/,4.5,68,Women's clothing store,live,True,yes,8,Active boutique with good rating and live website.
+Revelle Shop,"Toronto, ON",(647) 674-3114,https://revelleshop.com/,5,221,Dress store,live,True,yes,9,"High rating, many reviews, active website with product listings."
+Posh Boutique,"Toronto, ON",(416) 690-5533,https://poshshop.ca/,4.9,76,Women's clothing store,live,True,yes,9,High rating and active online presence make it a strong outreach candidate
+Courage My Love,"Toronto, ON",(416) 979-1992,https://couragemylovetoronto.com/,4.5,330,Vintage clothing store,live,True,yes,8,"Established, high rating, active online presence"
+Freda's Originals Inc,"Toronto, ON",(416) 703-0304,https://fredas.com/shop/,4.8,71,Clothing store,error_403,False,unknown,0,AI check failed: Expecting value: line 1 column 1 (char 0)
