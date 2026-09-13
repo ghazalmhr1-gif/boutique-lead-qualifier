@@ -1,0 +1,5 @@
+.env
+venv/
+stores.csv
+lead_audit.csv
+qualified_leads.csv
