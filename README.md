@@ -22,3 +22,9 @@ Built as the next step after finding leads: raw contact data isn't useful for ou
 ## Known limitations
 - Some websites block automated requests (bot protection), which shows up as a failed check rather than a false pass — intentional, since an unverifiable site shouldn't be marked "ready."
 - The AI's judgment is a heuristic, not a guarantee — it's meant to prioritize a lead list for a human to review, not replace that review entirely.
+
+## Related projects
+This is the third step in a small pipeline of tools:
+1. [research-report-tool](https://github.com/ghazalmhr1-gif/research-report-tool) — topic-to-report research automation
+2. [toronto-boutique-finder](https://github.com/ghazalmhr1-gif/toronto-boutique-finder) — finds and enriches local business leads
+3. **boutique-lead-qualifier** (this repo) — verifies and scores those leads for outreach readiness
